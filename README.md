@@ -1,4 +1,4 @@
-NFT Marketplace
+NFT MARKETPLACE
 
 Project Description
 
@@ -141,6 +141,7 @@ Tax calculation and reporting features
 
 
 Long-term Technical Roadmap
+
 Multi-chain Expansion:
 Polygon integration for lower fees
 Arbitrum deployment for faster transactions
@@ -163,5 +164,5 @@ Seamless fiat-to-crypto onboarding
 
 Contract Details
 0xeeC1C771B2F6d330215272b20621d948d0Ee0ed
-![Alt text](![Address _ Core Testnet2 Scan - Google Chrome 20-06-2025 15_09_35](https://github.com/user-attachments/assets/0ef6fb9a-50c2-45d6-9ea8-053370c1af8d)
+![Address _ Core Testnet2 Scan - Google Chrome 20-06-2025 15_09_35](https://github.com/user-attachments/assets/0ef6fb9a-50c2-45d6-9ea8-053370c1af8d)
 
